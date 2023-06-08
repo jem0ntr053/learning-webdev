@@ -18,23 +18,25 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+<!-- 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+-->
 
 
 <!-- PROJECT LOGO -->
 <br />
+
+<h3 align="center">My Web Dev Journey</h3>
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src="https://images.pexels.com/photos/270632/pexels-photo-270632.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="Logo" width="300" height="300">
   </a>
 
-<h3 align="center">My Web Dev Journey</h3>
 
   <p align="center">
     This is where I am recording my work in learning web dev.
